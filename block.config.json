@@ -1,0 +1,8 @@
+{
+  "name": "iop14",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Digambaran/iop14",
+    "ssh": "git@github.com:Digambaran/iop14.git"
+  }
+}
